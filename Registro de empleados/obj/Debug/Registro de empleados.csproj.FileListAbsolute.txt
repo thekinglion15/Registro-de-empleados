@@ -1,0 +1,45 @@
+C:\Users\gabri\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\Lenguaje C\Registro de empleados\Registro de empleados\bin\Debug\Registro de empleados.exe.config
+C:\Users\gabri\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\Lenguaje C\Registro de empleados\Registro de empleados\bin\Debug\Registro de empleados.exe
+C:\Users\gabri\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\Lenguaje C\Registro de empleados\Registro de empleados\bin\Debug\Registro de empleados.pdb
+C:\Users\gabri\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro de empleados.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro_de_empleados.Properties.Resources.resources
+C:\Users\gabri\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro_de_empleados.Registro.resources
+C:\Users\gabri\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro de empleados.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro de empleados.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro de empleados.exe
+C:\Users\gabri\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro de empleados.pdb
+C:\Users\gabri\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro_de_empleados.CambiarContraseña.resources
+C:\Users\gabri\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro_de_empleados.Login.resources
+C:\Users\gabri\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\Lenguaje C\Registro de empleados\Registro de empleados\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\gabri\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\Lenguaje C\Registro de empleados\Registro de empleados\bin\Debug\SpreadsheetLight.dll
+C:\Users\gabri\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\Lenguaje C\Registro de empleados\Registro de empleados\bin\Debug\System.Drawing.Common.dll
+C:\Users\gabri\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\Lenguaje C\Registro de empleados\Registro de empleados\bin\Debug\System.IO.Packaging.dll
+C:\Users\gabri\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\Lenguaje C\Registro de empleados\Registro de empleados\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\gabri\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\Lenguaje C\Registro de empleados\Registro de empleados\bin\Debug\SpreadsheetLight.xml
+C:\Users\gabri\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\Lenguaje C\Registro de empleados\Registro de empleados\bin\Debug\System.IO.Packaging.xml
+C:\Users\gabri\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro de empleados.csproj.CopyComplete
+C:\Users\gabri\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro_de_empleados.Buscar.resources
+C:\Users\gabri\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro_de_empleados.Nomina.resources
+C:\Users\gabri\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro_de_empleados.NominaGeneral.resources
+C:\Users\kinglion\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\4- Semestre 2021-10\Lenguaje C\Registro de empleados\Registro de empleados\bin\Debug\Registro de empleados.exe.config
+C:\Users\kinglion\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\4- Semestre 2021-10\Lenguaje C\Registro de empleados\Registro de empleados\bin\Debug\Registro de empleados.exe
+C:\Users\kinglion\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\4- Semestre 2021-10\Lenguaje C\Registro de empleados\Registro de empleados\bin\Debug\Registro de empleados.pdb
+C:\Users\kinglion\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\4- Semestre 2021-10\Lenguaje C\Registro de empleados\Registro de empleados\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\kinglion\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\4- Semestre 2021-10\Lenguaje C\Registro de empleados\Registro de empleados\bin\Debug\SpreadsheetLight.dll
+C:\Users\kinglion\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\4- Semestre 2021-10\Lenguaje C\Registro de empleados\Registro de empleados\bin\Debug\System.Drawing.Common.dll
+C:\Users\kinglion\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\4- Semestre 2021-10\Lenguaje C\Registro de empleados\Registro de empleados\bin\Debug\System.IO.Packaging.dll
+C:\Users\kinglion\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\4- Semestre 2021-10\Lenguaje C\Registro de empleados\Registro de empleados\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\kinglion\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\4- Semestre 2021-10\Lenguaje C\Registro de empleados\Registro de empleados\bin\Debug\SpreadsheetLight.xml
+C:\Users\kinglion\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\4- Semestre 2021-10\Lenguaje C\Registro de empleados\Registro de empleados\bin\Debug\System.IO.Packaging.xml
+C:\Users\kinglion\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\4- Semestre 2021-10\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro de empleados.csproj.AssemblyReference.cache
+C:\Users\kinglion\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\4- Semestre 2021-10\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro_de_empleados.CambiarContraseña.resources
+C:\Users\kinglion\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\4- Semestre 2021-10\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro_de_empleados.Login.resources
+C:\Users\kinglion\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\4- Semestre 2021-10\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro_de_empleados.Buscar.resources
+C:\Users\kinglion\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\4- Semestre 2021-10\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro_de_empleados.Nomina.resources
+C:\Users\kinglion\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\4- Semestre 2021-10\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro_de_empleados.NominaGeneral.resources
+C:\Users\kinglion\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\4- Semestre 2021-10\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro_de_empleados.Properties.Resources.resources
+C:\Users\kinglion\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\4- Semestre 2021-10\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro_de_empleados.Registro.resources
+C:\Users\kinglion\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\4- Semestre 2021-10\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro de empleados.csproj.GenerateResource.cache
+C:\Users\kinglion\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\4- Semestre 2021-10\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro de empleados.csproj.CoreCompileInputs.cache
+C:\Users\kinglion\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\4- Semestre 2021-10\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro de empleados.exe
+C:\Users\kinglion\OneDrive - Universidad Autonoma de Santo Domingo\Universidad\4- Semestre 2021-10\Lenguaje C\Registro de empleados\Registro de empleados\obj\Debug\Registro de empleados.pdb
